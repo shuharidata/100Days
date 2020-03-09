@@ -8,3 +8,6 @@ Topics that I intend to cover in next 100 Days
 5. System Design 
 6. Cloud 
 7. Interview Questions
+8. Data Modeling
+9. Data Warehousing 
+10. Reference Data management
