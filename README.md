@@ -1,4 +1,4 @@
-# 100Days
+# Index
 Topics that I intend to cover in next 100 Days 
 1. Data Governance - Data Quality , MDM , Data Lineage ,Metadata Management
 2. Data Platform
