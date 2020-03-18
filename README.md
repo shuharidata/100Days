@@ -47,6 +47,18 @@ Topics that I intend to cover in next 100 Days
  20. Shell Scripting
      Powershell
      Unix
+     
+ Certifications 
+ 
+ Technical 
+ Kafka - Confluent Certified Developer for Apache Kafka Certification Examination 
+ 
+ Cloud 
+ AWS Certified Data Analytics 
+ 
+ Conceptual 
+ Certified DAMA Proffesional
+ 
 
 
      
