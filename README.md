@@ -48,6 +48,8 @@ Topics that I intend to cover in next 100 Days
      Powershell
      Unix
      
+  Data Architecture (../Data Architetcure)
+     
  Certifications 
  
  Technical 
