@@ -48,7 +48,7 @@ Topics that I intend to cover in next 100 Days
      Powershell
      Unix
      
- [Data Architecture](../100Days/Data%20Architecture)
+ [Data Architecture](https://github.com/shuharidata/100Days/blob/master/Data%20Architecture)
      
  Certifications 
  
